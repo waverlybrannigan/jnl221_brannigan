@@ -1,0 +1,52 @@
+/*This is the CSS page for our final template.*/
+
+.footer p { /* This is how you add styles for only the p text within the footer. */
+	background-color: #cccccc;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 0;
+}
+.header {
+	height: auto;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Georgia', serif;
+	background-color: #AAD2BA;
+	color: #537A5A; 537A5A 6B8F71
+}
+p {
+	font-family: 'TimesNewRoman', serif;
+	font-size: 20px;
+}
+h4 {
+	font-style: italic;
+	font-size: 40px;
+	font-family: 'Georgia', serif;
+}
+h3 {
+	font-size: 30px;
+}
+
+img {
+	float: right;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+
+/*Don't worry about this section yet*/
+@media only screen and (max-width: 767px)
+{
+ .list {
+ 	float: none;
+ 	min-width: 90%;
+ 	margin-left: 10px;
+ 	margin-bottom: 30px;
+ 	margin-top: 30px;
+ }
+ iframe {
+ 	min-width: 90%;
+ 	margin-right: 10px;
+ }
+}
