@@ -21,7 +21,7 @@ background: rgba(170, 210, 186, .5);
 
 #chart1 {
 	height: 300px;
-	width: 500px;
+	width: 400px;
 	border: none;
 	margin-right: 5%;
 	margin-left: 5%;
@@ -31,6 +31,7 @@ container {
 	float: right;
 	margin-right: 5%;
 	margin-left: 5%;
+	margin-bottom: 5%;
 }
 
 summary:marker {
@@ -42,7 +43,7 @@ details {
   padding: 10px;
   background-color: #AAD2BA;
   border-radius: 5px;
-  width: 500px;
+  width: 400px;
   color: #537A5A;
   font-family: 'Karla', sans-serif;
   font-size: 20 px;
